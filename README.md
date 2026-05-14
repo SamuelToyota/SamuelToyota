@@ -1,62 +1,64 @@
 <h1 align="center">Samuel Yudi Toyota</h1>
 
 <p align="center">
-  Estudante de ADS • Desenvolvedor Python em formação • Focado em Backend, Django, Flask e Automação
+  Desenvolvedor Python em formação • Estudante de ADS • Backend • Automação
 </p>
 
-<p align="center">
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SamuelToyota&show_icons=true&theme=radical&hide_border=true&title_color=ff4da6&icon_color=ff4da6&text_color=f8f8f2&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelToyota&layout=compact&theme=radical&hide_border=true&title_color=ff4da6&text_color=f8f8f2&bg_color=0d1117" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,sqlite,git,github" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/samuel-yudi-toyota-766b7b361/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/SEU_USUARIO_AQUI/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-</p>
+  <a href="mailto:toyotaa038@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDE1c2xvaGp4cnZva2d4Z2M4eXZjY3Jmbm42eWh2dDl3czA0a2s2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" />
+</div>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 💻 Estudando **Python, Django, Flask, SQL, HTML, CSS e JavaScript**
-- 🤖 Interessado em **backend, automação e projetos com IA**
-- 📚 Construindo projetos práticos para minha primeira oportunidade na área de tecnologia
+- 🚀 Focado em **backend, automação e projetos práticos**
+- 🤖 Interesse em **IA aplicada e desenvolvimento web**
 
 ---
 
-## 🛠 Tecnologias e Frameworks
+## 📌 Projetos em destaque
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,sqlite,git,github,vscode&perline=5" alt="Tecnologias">
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SamuelToyota&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats de Samuel Toyota" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelToyota&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Samuel Toyota" />
-</p>
-
----
-
-## 📌 Atualmente estudando
-
-- Python
-- Django
-- Flask
-- SQL
-- APIs
-- Automação
-- Fundamentos de IA aplicada
+- Sistema de chamados com Flask
+- Projetos com Django
+- Site SSMA
+- Estudos de automação com Python
+- Projeto de fichas RPG
 
 ---
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="https://github.com/SamuelToyota">GitHub</a> •
-  <a href="https://www.linkedin.com/in/samuel-yudi-toyota-766b7b361/">LinkedIn</a> •
-  <a href="mailto:toyotaa038@gmail.com">toyotaa038@gmail.com</a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/samuel-yudi-toyota-766b7b361/
+- Email: toyotaa038@gmail.com
