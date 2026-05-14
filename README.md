@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Samuel Yudi Toyota 👋</h1>
 
-<!--
-**SamuelToyota/SamuelToyota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de ADS | Desenvolvedor Python em formação | Focado em Backend
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas**
+- 💻 Estudando **Python, Django, Flask, SQL, HTML, CSS e JavaScript**
+- 🔍 Interessado em **backend, automação e projetos com IA**
+- 📚 Buscando evoluir para minha primeira oportunidade na área de tecnologia
+
+---
+
+## 🛠 Tecnologias que estou estudando
+
+- Python
+- Django
+- Flask
+- SQL
+- HTML
+- CSS
+- Git e GitHub
+
+---
+
+## 📌 Projetos em destaque
+
+- Sistema de chamados com Flask
+- Projetos de estudo com Django
+- Site SSMA
+- Sistema de ficha RPG
+
+---
+
+## 📫 Contato
+
+- GitHub: [SamuelToyota](https://github.com/SamuelToyota)
+- LinkedIn: [Samuel Yudi Toyota](https://www.linkedin.com/in/samuel-yudi-toyota-766b7b361/)
