@@ -11,6 +11,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Python e
 ## Projetos em destaque
 
 - Site SSMA
-- Sistema de rifa com Flask
 - Projetos com Django
+- Projetos com CRUD e APIs
 - Site de montagem de fichas pra RPG
