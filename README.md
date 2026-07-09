@@ -8,9 +8,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Python e
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USUARIO_AQUI/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toyotaa038@gmail.com)
 
-## Projetos em destaque
+## Projeto em destaque
 
-- Site SSMA
-- Projetos com Django
-- Projetos com CRUD e APIs
-- Site de montagem de fichas pra RPG
+- DOCMIND-API (API de leitura de documentos)
