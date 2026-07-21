@@ -1,6 +1,6 @@
 # Samuel Yudi Toyota
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Python em formação, com foco em backend, automação e desenvolvimento web. Atualmente, venho construindo projetos práticos com Python, Django, Flask, SQL, HTML, CSS e JavaScript, buscando transformar estudo em experiência real. Tenho interesse especial em criar sistemas organizados, úteis e bem estruturados, além de explorar automações e aplicações com IA. Meu objetivo é evoluir continuamente como desenvolvedor, fortalecendo minha base técnica e construindo soluções cada vez mais completas. Estou em busca de oportunidades para aplicar meus conhecimentos, aprender com projetos reais e crescer profissionalmente na área de tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Python em formação, com foco em backend, automação e desenvolvimento web. Atualmente, venho construindo projetos práticos com Python, Django, Flask, SQL, HTML e CSS, buscando transformar estudo em experiência real. Tenho interesse especial em criar sistemas organizados, úteis e bem estruturados, além de explorar automações e aplicações com IA. Meu objetivo é evoluir continuamente como desenvolvedor, fortalecendo minha base técnica e construindo soluções cada vez mais completas. Estou em busca de oportunidades para aplicar meus conhecimentos, aprender com projetos reais e crescer profissionalmente na área de tecnologia.
 
 <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,github" />
 
